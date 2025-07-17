@@ -1,0 +1,19 @@
+---Host/Student info----
+
+Running on Wed Jul 16 11:32:19 PM EDT 2025
+Run by student - () on host
+ Static hostname: student-VMware-Virtual-Platform
+      Machine ID: d40570344550420b9abf99407b3f7f21
+Operating System: Ubuntu 24.04.2 LTS
+a98742121b14ebe6350c4bf8245d0062  ./check-assign2-script.sh - a98742121b14ebe6350c4bf8245d0062  -
+------------------------
+
+---Start of Assignment2.sh Check------
+---Running makecontainers.sh----------
+
+User 'student' added to incus and incusadmin groups.
+-------WARNING-------
+In order to use this new permission, a new login shell is needed.
+Ubuntu GUI logout doesn't logout, 'pkill systemd' or a reboot is required to actually logout.
+Please reboot this vm and run this script again to finish making the containers.
+---------------------
